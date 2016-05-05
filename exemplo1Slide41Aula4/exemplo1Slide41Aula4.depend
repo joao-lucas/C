@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1443392774 source:/home/joao_lucas/algoritimo/exemplo1Slide41Aula4/main.c
+	<stdio.h>
+	<stdlib.h>
+

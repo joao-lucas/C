@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1440454553 source:/home/joao_lucas/algoritimo/gerarNumAleatorios/main.c
+	<stdio.h>
+	<stdlib.h>
+

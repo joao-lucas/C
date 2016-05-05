@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1443448611 source:/home/joao_lucas/algoritimo/validadorDeCPF/main.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+

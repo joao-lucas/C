@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1444085576 source:/home/joao_lucas/algoritimo/posProva/main.c
+	<stdio.h>
+	<stdlib.h>
+

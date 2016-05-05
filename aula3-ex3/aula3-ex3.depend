@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1441068786 source:/home/joao_lucas/algoritimo/aula3-ex3/main.c
+	<stdio.h>
+	<stdlib.h>
+	"vetor.h"
+
+1441068751 /home/joao_lucas/algoritimo/aula3-ex3/vetor.h
+

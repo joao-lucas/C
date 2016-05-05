@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1443458930 source:/home/joao_lucas/algoritimo/exercicio1LinkSlide/main.c
+	<stdio.h>
+	<stdlib.h>
+

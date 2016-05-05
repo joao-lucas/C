@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1445725522 source:/home/joao_lucas/algoritimo/AlgProgEx1-20151024/main.c
+	<stdio.h>
+	<stdlib.h>
+

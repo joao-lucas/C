@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1444086259 source:/home/joao_lucas/algoritimo/posprova2/main.c
+	<stdio.h>
+	<stdlib.h>
+

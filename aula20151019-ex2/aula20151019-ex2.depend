@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1445293701 source:/home/joao_lucas/algoritimo/aula20151019-ex2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
